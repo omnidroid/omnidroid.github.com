@@ -1,3 +1,8 @@
-## hello, world
+---
+layout: master
+title: gh-pages
+---
 
-## bye
+## gh-pages welcome you.
+
+## see you.
